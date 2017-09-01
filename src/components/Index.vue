@@ -5,6 +5,9 @@
 
       <router-link class="button button-assertive" to="/about">
         <i class="ion-information-circled"></i> About
+    </router-link><br>
+      <router-link class="button button-assertive" to="/serch">
+        <i class="ion-information-circled"></i> Serch
       </router-link>
     </div>
   </div>
